@@ -20,8 +20,8 @@
     },
     "tls_cert": {
       "status": "pass",
-      "message": "Certificate expires 2026-06-04",
-      "expires": "2026-06-04",
+      "message": "Certificate expires 2026-08-02",
+      "expires": "2026-08-02",
       "issuer": "Google Trust Services"
     },
     "tls_protocol": {
@@ -77,7 +77,7 @@
     },
     "soa_consistency": {
       "status": "pass",
-      "message": "SOA serial consistent: 2399058831"
+      "message": "SOA serial consistent: 2403398500"
     }
   }
 }
