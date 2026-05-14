@@ -40,8 +40,9 @@
       ]
     },
     "ct_log": {
-      "status": "warn",
-      "message": "Could not query Certificate Transparency logs: HTTP Error 404: Not Found"
+      "status": "pass",
+      "message": "Found 11 CT log entry/entries for this domain",
+      "fingerprint": "4a116da22be46e8ec0d11aa0fa5b1fb3c601c19a5200fe10b9cab8d3dc0ee128"
     },
     "caa": {
       "status": "warn",
