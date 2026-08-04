@@ -40,8 +40,9 @@
       ]
     },
     "ct_log": {
-      "status": "warn",
-      "message": "Could not query Certificate Transparency logs: HTTP Error 502: Bad Gateway"
+      "status": "pass",
+      "message": "Found 33 CT log entry/entries for this domain",
+      "fingerprint": "bd0b98ca65fe94ddbf3ad16e038dd04ddf4cc10b489cb67a26c34aba1db0030d"
     },
     "caa": {
       "status": "warn",
