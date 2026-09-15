@@ -41,7 +41,7 @@
     },
     "ct_log": {
       "status": "pass",
-      "message": "Found 36 CT log entry/entries for this domain",
+      "message": "Found 35 CT log entry/entries for this domain",
       "fingerprint": "f62760d437b510427a38a3b79b734afc96b4d380209f18b4c7b64bc273601a8b"
     },
     "caa": {
