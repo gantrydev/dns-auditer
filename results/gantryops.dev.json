@@ -20,8 +20,8 @@
     },
     "tls_cert": {
       "status": "pass",
-      "message": "Certificate expires 2026-11-28",
-      "expires": "2026-11-28",
+      "message": "Certificate expires 2027-01-27",
+      "expires": "2027-01-27",
       "issuer": "Google Trust Services"
     },
     "tls_protocol": {
@@ -42,7 +42,7 @@
     "ct_log": {
       "status": "pass",
       "message": "Found 43 CT log entry/entries for this domain",
-      "fingerprint": "f62760d437b510427a38a3b79b734afc96b4d380209f18b4c7b64bc273601a8b"
+      "fingerprint": "5ea752ea4231cc55bc65b81e3ad78a32e7279d03140cb11ccaf3a3928c78ac67"
     },
     "caa": {
       "status": "warn",
@@ -78,7 +78,7 @@
     },
     "soa_consistency": {
       "status": "pass",
-      "message": "SOA serial consistent: 2416567552"
+      "message": "SOA serial consistent: 2418723849"
     }
   }
 }
